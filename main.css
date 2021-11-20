@@ -1,0 +1,28 @@
+.img_width{
+    height: 550px;
+}
+
+.c_1{
+    background: rgb(255, 207, 104);
+}
+
+.c_2{
+    background: rgb(218, 96, 255);
+}
+
+.c_3{
+    background: rgb(112, 255, 131);
+}
+
+.bg_card{
+    background: rgb(131, 131, 131);
+    color: white;
+}
+
+.bd_card{
+    border: 1px solid black;
+}
+
+.card_width{
+    height: 200px;
+}
